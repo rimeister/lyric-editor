@@ -206,9 +206,6 @@ public class LyricEditor extends JFrame implements ActionListener {
 
             }
 
-        } else if (e.getSource() == this.about) {
-            JOptionPane jp = new JOptionPane();
-            jp.showMessageDialog(null,"Created by Conan Hughes");
         }
 
     }
